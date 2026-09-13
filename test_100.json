@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "total_requested": 10,
+    "successful": 10,
+    "failed": 0,
+    "generated_at": "2026-09-13T07:05:06.686520+00:00",
+    "agent_version": "1.0.0",
+    "sources_used": [
+      "Brønnøysund Register Centre (Brreg.no)"
+    ]
+  },
+  "profiles": [
+    {
+      "company_number": "995849364",
+      "name": ":-) INVEST AS",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Skanselien 37",
+      "postal_code": "5034",
+      "city": "BERGEN",
+      "country": "Norge",
+      "industry_code": "70.200",
+      "industry_description": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "legal_form": "Aksjeselskap",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/995849364",
+          "accessed": "2026-09-13T07:05:02.930460+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:02.930482+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "929943945",
+      "name": "!FALSE INVESTMENTS AS",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Bygdøy allé 111C",
+      "postal_code": "0273",
+      "city": "OSLO",
+      "country": "Norge",
+      "industry_code": "00.000",
+      "industry_description": "Uoppgitt",
+      "legal_form": "Aksjeselskap",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/929943945",
+          "accessed": "2026-09-13T07:05:03.329232+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:03.329254+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "986467491",
+      "name": "¡ HOLY TOLEDO !",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Fredensborgveien 30",
+      "postal_code": "0177",
+      "city": "OSLO",
+      "country": "Norge",
+      "industry_code": "74.990",
+      "industry_description": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "legal_form": "Enkeltpersonforetak",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/986467491",
+          "accessed": "2026-09-13T07:05:03.724212+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:03.724226+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "989061593",
+      "name": "-G- GROUP AS",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "c/o Gjørva, Hellerud gårdsvei 5B",
+      "postal_code": "0671",
+      "city": "OSLO",
+      "country": "Norge",
+      "industry_code": "62.200",
+      "industry_description": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "legal_form": "Aksjeselskap",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/989061593",
+          "accessed": "2026-09-13T07:05:04.118733+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:04.118748+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "819032262",
+      "name": "...PIECE OF CAKE AS",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Nessetveien 108",
+      "postal_code": "1407",
+      "city": "VINTERBRO",
+      "country": "Norge",
+      "industry_code": "10.710",
+      "industry_description": "Produksjon av brød og ferske konditorvarer",
+      "legal_form": "Aksjeselskap",
+      "employee_count": "5",
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/819032262",
+          "accessed": "2026-09-13T07:05:04.514364+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:04.514385+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "935845114",
+      "name": ".BEIN BERGEN AS",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Blomhaugane 53B",
+      "postal_code": "5943",
+      "city": "AUSTRHEIM",
+      "country": "Norge",
+      "industry_code": "43.330",
+      "industry_description": "Gulvlegging og tapetsering",
+      "legal_form": "Aksjeselskap",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/935845114",
+          "accessed": "2026-09-13T07:05:04.909361+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:04.909383+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "923569839",
+      "name": ".EAGL TECHNOLOGIES AS",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Vakåsveien 9",
+      "postal_code": "1395",
+      "city": "HVALSTAD",
+      "country": "Norge",
+      "industry_code": "46.490",
+      "industry_description": "Engroshandel med andre husholdningsvarer",
+      "legal_form": "Aksjeselskap",
+      "employee_count": "5",
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/923569839",
+          "accessed": "2026-09-13T07:05:05.304529+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:05.304545+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "916627939",
+      "name": "- P A L M E R A -",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Strandgaten 208",
+      "postal_code": "5004",
+      "city": "BERGEN",
+      "country": "Norge",
+      "industry_code": "94.992",
+      "industry_description": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "legal_form": "Forening/lag/innretning",
+      "employee_count": null,
+      "website": "palmera-i-bergen.no",
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/916627939",
+          "accessed": "2026-09-13T07:05:05.700409+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:05.700455+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "933365573",
+      "name": "- ZOTKO .NO",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Follerøvegen 20",
+      "postal_code": "6652",
+      "city": "SURNADAL",
+      "country": "Norge",
+      "industry_code": "47.250",
+      "industry_description": "Detaljhandel med drikkevarer",
+      "legal_form": "Enkeltpersonforetak",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/933365573",
+          "accessed": "2026-09-13T07:05:06.094810+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:06.094825+00:00",
+      "data_freshness_days": 0
+    },
+    {
+      "company_number": "934551435",
+      "name": "----ADVOKATFIRMAET CATO MYHRE",
+      "status": "UNKNOWN",
+      "registration_date": null,
+      "address": "Grimelundshaugen 33",
+      "postal_code": "0374",
+      "city": "OSLO",
+      "country": "Norge",
+      "industry_code": "69.100",
+      "industry_description": "Juridisk tjenesteyting",
+      "legal_form": "Enkeltpersonforetak",
+      "employee_count": null,
+      "website": null,
+      "phone": null,
+      "email": null,
+      "board_members": [],
+      "ceo": null,
+      "financial_year_end": null,
+      "share_capital": null,
+      "sources": [
+        {
+          "name": "Brønnøysund Register Centre",
+          "url": "https://www.brreg.no/enhet/934551435",
+          "accessed": "2026-09-13T07:05:06.490081+00:00",
+          "type": "official_register"
+        }
+      ],
+      "last_updated": "2026-09-13T07:05:06.490102+00:00",
+      "data_freshness_days": 0
+    }
+  ]
+}
